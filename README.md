@@ -1,6 +1,12 @@
+# Personal Zomato Food Order Analysis Dashboard in Power BI
+
 # **Overview**
 
 The Zomato Gluttony Dashboard is a comprehensive Power BI report designed to visualize and analyze key metrics related to my restaurant orders and expenses on Zomato. This dashboard provides insights into various aspects such as total orders, expenses, discounts and ratings over time, making it a powerful tool for managers and analysts.
+
+# Setup
+
+Power BI Desktop
 
 # **Features**
 
@@ -39,3 +45,9 @@ Display monthly expenses across the year.
 **Line Charts:** Show the trends in total orders and expenses year over year.
 
 **Summary Table:** A comparative view of expenses, orders, and discounts by food type.
+
+# Dashboard
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/0ad4f4fa-351d-4082-a885-4daf7842fc64" alt="Zomato Dashboard"/>
+</p>
