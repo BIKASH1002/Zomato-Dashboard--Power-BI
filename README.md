@@ -14,11 +14,11 @@ Power BI Desktop
 
 **Total orders:** 127
 
-**Total expense:** ₹ 38k
+**Total expense:** ₹38k
 
-**Average order:** ₹ 302
+**Average order:** ₹302
 
-**Toral discount:** ₹ 10k
+**Toral discount:** ₹10k
 
 # **Key Visualization**
 
